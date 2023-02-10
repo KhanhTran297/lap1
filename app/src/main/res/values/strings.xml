@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lap2</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="phone">Phone number</string>
+    <string name="date">Date of birth</string>
+    <string name="title">Register</string>
+</resources>
